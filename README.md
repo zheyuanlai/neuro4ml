@@ -1,4 +1,9 @@
+## Course: Neuroscience for Machine Learners - Imperial College London
+
+[Course Website](https://neuro4ml.github.io/)
+
 # exercises
+
 Exercises for "Neuroscience for machine learners" course
 
 ## Week by week
